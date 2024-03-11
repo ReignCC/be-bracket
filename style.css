@@ -27,6 +27,12 @@ img {
   flex-wrap: wrap;
 }
 
+.belogo {
+  width: 420px;
+  padding: 20px;
+  padding-bottom: 20px;
+}
+
 .logos {
   display: flex;
   justify-content: center;
