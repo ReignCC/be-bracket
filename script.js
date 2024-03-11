@@ -1,5 +1,5 @@
 let audio = new Audio ("bgm/music.mp3");
-audio.volume = 4;
+audio.volume = 5;
 var count = 0;
 function playMusic(){
   if(count == 0){
